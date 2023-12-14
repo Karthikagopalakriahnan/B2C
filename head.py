@@ -1,0 +1,17 @@
+print("<meta charset='utf-8'>")
+print("<meta http-equiv='X-UA-Compatible' content='IE=edge'>")
+print("<meta name='viewport' content='width=device-width, initial-scale=1'>")
+print("<title>B2C E-COMMERCE </title>")
+##<!-- Facebook and Twitter integration -->
+print("<meta property='og:url'>")
+print("<meta property='og:type'>")
+print("<meta property='og:title'>")
+print("<meta property='og:description'>")
+print("<meta property='og:image'>")
+print("<meta name='twitter:title'>")
+print("<meta name='twitter:image'>")
+print("<meta name='twitter:url'>")
+print("<meta name='twitter:card'>")
+print("<meta http-equiv='expires' content='Mon, 26 Jul 1997 05:00:00 GMT'/>")
+print("<meta http-equiv='pragma' content='no-cache' />")
+import link
